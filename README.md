@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/) on computer vision and deep learning projects
+- 🌱 I’m currently learning MLOps, Deep Learning, Machine Learning, TensorFlow
+
 <!--
 **rmnchopra91/rmnchopra91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
