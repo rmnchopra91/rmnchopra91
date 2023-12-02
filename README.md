@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/) on computer vision and deep learning projects
-- 🌱 I’m currently learning  Machine Learning End to End Pipeline, MLOps, Deep Learning, Machine Learning, TensorFlow
-- 👯 I’m looking to collaborate on AWS Sagemaker Pipeline
--  [LinkedIN](https://www.linkedin.com/in/raman-chopra/), [GMAIL](rmnchopra91@gmail.com), [Phone](+91-9654300420)
+- 🔭 I’m currently working at [Principal Finance](https://www.principal.com/) on AWS Sagemaker, MLOps, LLMOps
+- 🌱 I’m currently learning MLOps, LLMOps
+- 👯 I’m looking to collaborate on LLMOps
+- 📫[LinkedIN](https://www.linkedin.com/in/raman-chopra/), [GMAIL](rmnchopra91@gmail.com), [Phone](+91-9654300420)
 
 <!--
 **rmnchopra91/rmnchopra91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
