@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Principal Finance](https://www.principal.com/) on AWS Sagemaker, MLOps, LLMOps
-- 🌱 I’m currently learning MLOps, LLMOps
-- 👯 I’m looking to collaborate on LLMOps
+- 🔭 Currently employed at [Principal Finance](https://www.principal.com/), focusing on AWS Sagemaker, MLOps, and LLMOps.
+- 🌱 Engaged in ongoing projects centered around MLOps and LLMOps.
+- 👯 Seeking opportunities to collaborate specifically in the realm of LLMOps.
 - 📫[LinkedIN](https://www.linkedin.com/in/raman-chopra/), [GMAIL](rmnchopra91@gmail.com), [Phone](+91-9654300420)
 
 <!--
